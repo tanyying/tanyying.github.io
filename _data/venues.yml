@@ -1,9 +1,26 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"Nat. Mach. Intell.":
+  url: https://www.nature.com/natmachintell/
 
-"PhysRev":
-  url: https://journals.aps.org/
+"IJEST":
+  url: https://link.springer.com/journal/13762
 
-"Vision":
-  color: "#009f36"
+"ESPR":
+  url: https://link.springer.com/journal/11356
+
+"EDS":
+  url: https://link.springer.com/journal/10668
+
+"I&ECR":
+  url: https://pubs.acs.org/journal/iecred
+
+"IOP EES":
+  url: https://iopscience.iop.org/journal/1755-1315
+
+"Chem. Pap.":
+  url: https://link.springer.com/journal/11696
+
+"CET":
+  url: https://www.sciencedirect.com/journal/cleaner-engineering-and-technology
+
+"KJChE":
+  url: https://link.springer.com/journal/11814
