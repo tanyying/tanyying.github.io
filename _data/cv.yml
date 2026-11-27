@@ -39,7 +39,7 @@ cv:
 
       - company: Laboratoire Réactions et Génie des Procédés (LRGP), Université de Lorraine
         position: Research Attachment
-        location: Nancy, Grand Est, France
+        location: Nancy, France
         start_date: 2023-11
         end_date: 2024-02
         highlights:
@@ -48,7 +48,7 @@ cv:
 
       - company: Polytechnique Montréal
         position: Research Internship
-        location: Montréal, Quebec, Canada
+        location: Montréal, Canada
         start_date: 2022-02
         end_date: 2022-06
         highlights:
@@ -57,7 +57,7 @@ cv:
 
       - company: Department of Chemical Engineering, Universiti Malaya
         position: Research Assistant
-        location: Kuala Lumpur, Malaysia
+        location: Kuala Lumpur, MY
         start_date: 2019-11
         end_date: 2022-10
         summary: Jan–Oct 2022 and Nov 2019–Jul 2020.
@@ -69,7 +69,7 @@ cv:
       - institution: Universiti Malaya
         area: Chemical Engineering
         studyType: Ph.D.
-        location: Kuala Lumpur, Malaysia
+        location: Kuala Lumpur, MY
         start_date: 2021-03
         end_date: 2025-04
         highlights:
@@ -78,7 +78,7 @@ cv:
       - institution: Universiti Malaya
         area: Engineering Science
         studyType: Master
-        location: Kuala Lumpur, Malaysia
+        location: Kuala Lumpur, MY
         start_date: 2019-09
         end_date: 2021-03
         highlights:
@@ -87,7 +87,7 @@ cv:
       - institution: Universiti Malaya
         area: Chemical Engineering
         studyType: Bachelor of Engineering
-        location: Kuala Lumpur, Malaysia
+        location: Kuala Lumpur, MY
         start_date: 2015-09
         end_date: 2019-08
         highlights:

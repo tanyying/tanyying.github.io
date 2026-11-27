@@ -8,10 +8,6 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Michigan Institute for Data & AI in Society</p>
-    <p>University of Michigan</p>
-    <p>Ann Arbor, MI, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,10 +23,10 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a chemical engineer who works where **sustainable materials meet machine learning**. As a **Schmidt AI in Science Postdoctoral Fellow** at the [Michigan Institute for Data & AI in Society (MIDAS)](https://midas.umich.edu/), University of Michigan, I work with Prof. Anne J. McNeil and Prof. Bryan R. Goldsmith on using **Bayesian optimization** to design polymer- and biomass-derived chars that capture **PFAS** ("forever chemicals") from water, so we find high-performing materials with far fewer costly experiments.
+I'm currently a **Schmidt AI in Science Postdoctoral Fellow** at the [Michigan Institute for Data & AI in Society (MIDAS)](https://midas.umich.edu/), University of Michigan. I work with [Prof. Anne J. McNeil](https://lsa.umich.edu/chem/people/faculty/ajmcneil.html) and [Prof. Bryan R. Goldsmith](https://che.engin.umich.edu/people/goldsmith-bryan/) on using **Bayesian optimization** to design polymer- and biomass-derived chars that capture **PFAS** ("forever chemicals") from water.
 
-I earned my **Ph.D. in Chemical Engineering** (Advanced Materials & Technology) from **Universiti Malaya**, Malaysia. There I turned agricultural and everyday waste, such as passion fruit leaves, palm kernel shells and even human hair, into activated carbons that remove dyes and other stubborn pollutants from wastewater. Along the way, I did research stints at **Polytechnique Montréal** (Canada) and the **Université de Lorraine** (LRGP, France).
+I earned my **Ph.D. in Chemical Engineering** (Advanced Materials & Technology) and **Bachelor of Engineering (Chemical)** from **Universiti Malaya**, Malaysia. Along the way, I did a research internship at **Polytechnique Montréal** (Canada) and a research attachment at the **Laboratoire Réactions et Génie des Procédés** (France).
 
-Outside the lab, I care about making science understandable. I'm the lead organizer of **_Commun-AI-ty_**, a workshop funded by Schmidt Sciences that builds science-communication skills for explaining AI in science.
+Outside the lab, I care about making science understandable. I'm the lead organizer of [**_Commun-AI-ty_**](https://midas.umich.edu/events/commun-ai-ty-2026/), a workshop funded by Schmidt Sciences that builds science-communication skills for explaining AI in science.
 
-**Research interests:** circular economy, machine learning, Bayesian optimization, green materials, sustainability, AI for science.
+**Research interests:** circular economy, AI for science, machine learning, Bayesian optimization, green materials, sustainability.

@@ -2,7 +2,7 @@
 layout: page
 title: Waste-derived adsorbents for clean water
 description: Activated carbons from passion fruit leaves, palm kernel shells, crop residues and human hair for wastewater treatment (2019–2025, Universiti Malaya).
-importance: 2
+importance: 4
 category: research
 ---
 
